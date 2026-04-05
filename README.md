@@ -289,4 +289,3 @@ Validation failures add a per-field `errors` array:
 
 ---
 
-*Built for the Zorvyn FinTech backend engineering assessment.*
