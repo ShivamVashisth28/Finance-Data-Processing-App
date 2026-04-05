@@ -1,4 +1,4 @@
-# FinanceOS — Finance Data Processing & Access Control System
+# Finance — Finance Data Processing & Access Control System
 
 A full-stack finance dashboard with a production-grade Node.js/Express REST API backed by **PostgreSQL**, and a dark-themed React frontend. Built to demonstrate real-world backend engineering: connection pooling, SQL migrations, role-based access control, structured logging, and Docker-based deployment.
 
